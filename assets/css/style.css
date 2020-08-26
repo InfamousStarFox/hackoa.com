@@ -42,4 +42,8 @@ hr {
 	h1 {
 		font-size: 45px;
 	}
+	#link {
+		position: relative;
+		margin-top: 100px;
+	}
 }
